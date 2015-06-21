@@ -1,3 +1,7 @@
+# other
+.DS_Store
+rsconnect/
+
 # Editor files
 *.*~
 
